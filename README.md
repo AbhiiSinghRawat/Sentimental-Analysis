@@ -1,9 +1,10 @@
-# Sentimental-Analysis on Socail Media Data
-## Sentiment analysis of Twitter comments using Python and Machine Learning.
+# Sentiment Analysis on Social Media Data
+This project implements a machine learning–based sentiment analysis system to classify social media text (Twitter comments) into positive and negative sentiments using Python and supervised learning techniques.
 
 
 ## Overview 
-This project implements a machine learning-based sentiment analysis system to classify Twitter  comments into positive and negative sentiments.
+Sentiment analysis helps understand public opinion by analyzing textual data.  
+In this project, Twitter comments are processed and classified using traditional machine learning and NLP techniques.
 
 ## Technologies Used
 - Python
@@ -26,6 +27,6 @@ The model achieved approximately 80% accuracy on the test dataset(unseen data).
 
 ## Future Improvements
 - Hyperparameter tuning
-- Trying Deep Learning models (LSTM, BERT)
+- Experimenting with Deep Learning models (LSTM, BERT)
   
 
